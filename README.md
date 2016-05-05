@@ -1,3 +1,3 @@
-# PyNorte
+# Só Memes 
 
-Grupo de programadores Python - Norte (#AC, #AM, #PA, #RO)
+Aplicação utilizada na prática de dojo
