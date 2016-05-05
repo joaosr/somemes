@@ -8,13 +8,18 @@
  
 ```sh
 $ pyenv install 3.5.0
+$ pyenv global 3.5.0
 ```
  - Clone o repositório:
 
 ```sh
-$ git clone 
+$ git clone https://github.com/joaosr/somemes.git
 ```
+
+ - Dentro do repositório local crie um ambiente Python com o virtualenv:
  
 ```sh
+$ cd /path/somemes/
 $ python -m venv .somemes
+$ source .somemes/bin/activate
 ```
