@@ -17,6 +17,7 @@ Including another URLconf
 from django.conf.urls import url, patterns
 from django.contrib import admin
 from somemes import settings
+
 from somemes.core.views import home
 
 urlpatterns = [
