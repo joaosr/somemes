@@ -1,0 +1,4 @@
+Django==1.9
+django-test-without-migrations==0.4
+Pillow==3.2.0
+pytz
